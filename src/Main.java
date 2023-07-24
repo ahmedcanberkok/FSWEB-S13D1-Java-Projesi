@@ -46,7 +46,7 @@ public class Main {
             System.out.println("Invalid Input");
         }
 
-        System.out.println("----------Rectangle Area-------------");
+        System.out.println("----------Rectangle Area--------------");
         System.out.println("Enter radius of circle : ");
         double r = scanner.nextDouble();
         double circleAreaResult = circleArea(r);
